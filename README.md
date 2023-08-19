@@ -7,15 +7,10 @@ This interactive tool illustrates how algorithms navigate mazes and discover rou
 ![gif example](Example.gif)
 
 
-### Run on Local Machine
+# Run on Local Machine
 
 1. Clone this repository and `cd` into the directory
-2. Right-click 
-
-   ```console
-   index.html
-   ```
-
+2. Right-click `index.html`
 3. Select "Open Server"
 4. Program available at http://localhost:5500/
 5. Refresh for new maze
