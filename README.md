@@ -12,5 +12,5 @@ This interactive tool illustrates how algorithms navigate mazes and discover rou
 1. Clone this repository and `cd` into the directory
 2. Right-click `index.html`
 3. Select "Open Server"
-4. Program available at http://localhost:5500/
+4. Program available at `localhost:5500`
 5. Refresh for new maze
