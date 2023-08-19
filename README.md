@@ -4,7 +4,7 @@ This interactive tool illustrates how algorithms navigate mazes and discover rou
 
 The application generates a unique maze using a recursive division algorithm. Once the maze is set, a starting point (marked with green) and an endpoint (distinguished in red) are randomly established. The program then embarks to find a pathway connecting the starting and ending cells, doing so by employing a breadth-first search (BFS) algorithm. As the search continues, cells under exploration are illuminated in yellow, granting you a visual representation of the search progress.
 
-# Demo
+# Demonstration
 
 ![gif example](Example.gif)
 
